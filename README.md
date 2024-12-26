@@ -1,10 +1,5 @@
-# r3f-vite-starter
-A boilerplate to build R3F projects
-
-```
-yarn
-yarn dev
-```
+# [3D STUDY ROOM](https://3d-study-room.netlify.app/)
+Made with React THREE Fiber 
 
 
-![image](https://user-images.githubusercontent.com/6551176/221732091-23ee52cb-4150-42fa-b998-43628d7a6b0d.png)
+![image](https://github.com/mostpalon3/3d-Study-Room/blob/master/images/image.png)
